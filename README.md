@@ -21,9 +21,7 @@
   <a href="https://instagram.com/jawahar___v_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="jawahar___v_" height="30" width="40" /></a>
- <a href="d.jawahar6382@gmail.com" target="blank"><img align="center"
-      src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png"
-      alt="jawahar-v" height="30" width="40" /></a>
+    Gmail: **adampithewan@gmail.com**
 </p>
 
 <br>
