@@ -11,7 +11,7 @@
 
 - 🚀 Open to collaborating on interesting projects
 
-- 📧 Gmail :**adampithewan@gmail.com**
+- 📧 Gmail :**d.jawahar6382@gmail.com**
 
 <br>
 
