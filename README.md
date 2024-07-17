@@ -11,6 +11,8 @@
 
 - 🚀 Open to collaborating on interesting projects
 
+- 📧 Gmail :**adampithewan@gmail.com**
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +23,6 @@
   <a href="https://instagram.com/jawahar___v_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="jawahar___v_" height="30" width="40" /></a>
-    Gmail: **adampithewan@gmail.com**
 </p>
 
 <br>
