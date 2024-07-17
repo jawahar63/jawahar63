@@ -3,24 +3,10 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=jawahar63&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
-<!--
-**jawahar63/jawahar63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech AI & DS Student at Bannari Amman Institute of Technology
 
-Here are some ideas to get you started:
+- 💻 Passionate about technology and innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🎓 B.Tech AI & DS Student at Bannari Amman Institute of Technology
+- 🌱 Currently learning and exploring new technologies
 
-💻 Passionate about technology and innovation
-
-🌱 Currently learning and exploring new technologies
-
-🚀 Open to collaborating on interesting projects
+- 🚀 Open to collaborating on interesting projects
